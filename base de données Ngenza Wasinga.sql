@@ -1,0 +1,1 @@
+SELECT * FROM mcd2.salaries;
